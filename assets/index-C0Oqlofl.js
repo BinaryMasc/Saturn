@@ -382,7 +382,7 @@ Error generating stack: `+o.message+`
             -webkit-print-color-adjust: exact !important;
           }
           @page {
-            margin: 0;
+            margin: 1cm;
             size: 58mm auto; /* For 58mm POS Printer */
           }
         }
